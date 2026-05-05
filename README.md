@@ -6,12 +6,12 @@
 <!-- 🔥 TITLE -->
 <h1 align="center">
   <img src="./dashboard/images/logo-non-bg.png" width="28px">
-  𓆩𝐌𝐑-𝐅𝐀𝐑𝐇𝐀𝐍𓆪 𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧
+  𝗔𝗙𝗡𝗔𝗡 𝗔𝗛𝗠𝗘𝗗 𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧
 </h1>
 
 <!-- 🔥 BADGE -->
 <p align="center">
-  <img src="https://img.shields.io/badge/𝐈%20𝐀𝐌%20𝐅𝐀𝐑𝐇𝐀𝐍-𝐁𝐀𝐍𝐆𝐋𝐀𝐃𝐄𝐒𝐇𝐈%20𝐍𝐎𝐎𝐁%20𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐄𝐑-ff0000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/𝐈%20𝐀𝐌%20𝐀𝐅𝐍𝐀𝐍-𝐁𝐀𝐍𝐆𝐋𝐀𝐃𝐄𝐒𝐇𝐈%20𝐍𝐎𝐎𝐁%20𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐄𝐑-ff0000?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 <!-- 🔥 WELCOME -->
@@ -25,7 +25,7 @@
 
 <!-- 🔥 TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=600&lines=𝐈+𝐀𝐌+𝐈𝐍𝐍𝐎𝐂𝐄𝐍𝐓+𝐁𝐎𝐘;𝐈𝐓'𝐒+𝐍𝐎𝐓+𝐉𝐔𝐒𝐓+𝐀+𝐍𝐀𝐌𝐄+𝐁𝐑𝐎;𝐅𝐀𝐑𝐇𝐀𝐍+𝐈𝐒+𝐓𝐇𝐄+𝐁𝐑𝐀𝐍𝐃;𝐓𝐇𝐀𝐍𝐊+𝐘𝐎𝐔+𝐄𝐕𝐄𝐑𝐘𝐎𝐍𝐄;𝐋𝐎𝐕𝐄+𝐘𝐎𝐔+𝐀𝐋𝐋+𝐅𝐑𝐈𝐄𝐍𝐃𝐒">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=600&lines=𝐈+𝐀𝐌+𝐈𝐍𝐍𝐎𝐂𝐄𝐍𝐓+𝐁𝐎𝐘;𝐈𝐓'𝐒+𝐍𝐎𝐓+𝐉𝐔𝐒𝐓+𝐀+𝐍𝐀𝐌𝐄+𝐁𝐑𝐎;𝐀𝐅𝐍𝐀𝐍+𝐈𝐒+𝐓𝐇𝐄+𝐁𝐑𝐀𝐍𝐃;𝐓𝐇𝐀𝐍𝐊+𝐘𝐎𝐔+𝐄𝐕𝐄𝐑𝐘𝐎𝐍𝐄;𝐋𝐎𝐕𝐄+𝐘𝐎𝐔+𝐀𝐋𝐋+𝐅𝐑𝐈𝐄𝐍𝐃𝐒">
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ## 📊 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FARHAN-MIRAI-BOT&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00ffff&icon_color=ff00ff&text_color=ffffff">
+  <img src="https://github-readme-stats.vercel.app/api?username=AFNAN-MIRAI-BOT&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00ffff&icon_color=ff00ff&text_color=ffffff">
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ## 🔥 𝐒𝐓𝐑𝐄𝐀𝐊 𝐒𝐓𝐀𝐓𝐒
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FARHAN-MIRAI-BOT&theme=dark&background=000000&ring=ff0000&fire=ff9900&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff">
+  <img src="https://streak-stats.demolab.com?user=AFNAN-MIRAI-BOT&theme=dark&background=000000&ring=ff0000&fire=ff9900&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff">
 </p>
 
 ---
@@ -70,9 +70,9 @@
 
 ### 𝐀 𝐏𝐀𝐒𝐒𝐈𝐎𝐍𝐀𝐓𝐄 𝐅𝐑𝐎𝐍𝐓𝐄𝐍𝐃 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄 𝐅𝐑𝐎𝐌 𝐁𝐀𝐍𝐆𝐋𝐀𝐃𝐄𝐒𝐇
 ______________________________________
-- ➪ 𝐍𝐀𝐌𝐄 : 𓆩𝐃𝐄𝐕𝐈𝐋-𝐅𝐀𝐑𝐇𝐀𝐍𓆪  
+- ➪ 𝐍𝐀𝐌𝐄 : 𝐀𝐅𝐍𝐀𝐍-𝐀𝐇𝐌𝐄𝐃  
 - ➪ 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍 : 𝐈𝐒𝐋𝐀𝐌  
-- ➪ 𝐀𝐃𝐃𝐑𝐄𝐒𝐒 : 𝐂𝐇𝐔𝐀𝐃𝐀𝐍𝐆𝐀  
+- ➪ 𝐀𝐃𝐃𝐑𝐄𝐒𝐒 : 𝐆𝐀𝐙𝐈𝐏𝐔𝐑  
 - ➪ 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍 : 𝐒𝐓𝐔𝐃𝐄𝐍𝐓  
 - ➪ 𝐑𝐄𝐋𝐀𝐓𝐈𝐎𝐍𝐒𝐇𝐈𝐏 : 𝐒𝐈𝐍𝐆𝐋𝐄  
 
@@ -81,14 +81,14 @@ ______________________________________
 ## 📞 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐌𝐄
 
 ### 🔵 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊
-<a href="https://www.facebook.com/MR.MUNNA.220">
+<a href="https://www.facebook.com/4FN4N.444">
 <img src="https://img.shields.io/badge/Facebook-ff0000?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 
 ---
 
 ### 🟢 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏
-<a href="https://wa.me/8801934640061">
+<a href="https://wa.me/8801304015964">
 <img src="https://img.shields.io/badge/WhatsApp-00ff00?style=for-the-badge&logo=whatsapp&logoColor=black">
 </a>
 
@@ -96,21 +96,21 @@ ______________________________________
 
 ## 🌐 𝐅𝐎𝐋𝐋𝐎𝐖 𝐌𝐄
 
-<a href="https://github.com/FARHAN-MIRAI-BOT">
+<a href="https://github.com/AFNAN-MIRAI-BOT">
 <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">
 </a>
 
-<a href="https://www.facebook.com/MR.MUNNA.220">
+<a href="https://www.facebook.com/4FN4N.444">
 <img width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg">
 </a>
 
-<a href="https://www.instagram.com/MUNNA_VAI.MBS">
+<a href="https://www.instagram.com/evan42.2026">
 <img width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg">
 </a>
 
 ---
 
-<h2 align="center">𝐅𝐀𝐑𝐇𝐀𝐍 𝐈𝐒 𝐍𝐎𝐓 𝐀 𓆩𝐍𝐀𝐌𝐄𓆪 
+<h2 align="center">𝐀𝐅𝐍𝐀𝐍 𝐈𝐒 𝐍𝐎𝐓 𝐀 𓆩𝐍𝐀𝐌𝐄𓆪 
   
    😈 𝐈𝐓'𝐒 𝐀 𝐁𝐑𝐀𝐍𝐃 😈</h2>
  
